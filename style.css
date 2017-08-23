@@ -1,0 +1,93 @@
+body{
+    background-image: url('images/bg1.jpg');
+}
+#container{
+    width: 70%;
+    border : 2px solid rgb(255,140,57);
+    margin: 0 auto;
+    text-align: center;
+    background-color: white;
+}
+
+#header{
+    text-align: center;
+    
+}
+
+ 
+.navLi{
+    display: inline;
+
+}
+
+#nav{
+    text-align: center;
+}
+
+.navImg{
+    width: 70px;
+    height: 70px;
+}
+
+.navInstituteNames{
+    display: inline;
+}
+
+.navTd{
+    padding: 30px;
+}
+
+#divWorkExp{
+    width: 40%;
+   
+    float: left;
+}
+
+#divPersonalInfo{
+    width: 40%;
+
+    float: right;
+}
+
+.tdLeft{
+    color: darkorange;
+}
+
+.headings{
+    background-color: darkorange;
+    color: white;
+}
+
+#headerName{
+    color: darkorange;
+}
+
+.navInstituteNames{
+    color:  darkorange;
+}
+
+.durations{
+    color:  darkorange;
+}
+
+.trHeading{
+    background-color: darkorange;
+    color: white;
+    font: bolder;
+}
+
+
+#footer{
+    background-color: darkorange;
+    color: white;
+
+}
+
+a{
+    font-style: none;
+}
+
+#headerInfo{
+  
+    border: 3px solid darkorange; 
+}
